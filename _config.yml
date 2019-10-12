@@ -1,21 +1,6 @@
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
-
-# Site settings
-title: bamboopu blog
-email: xjtubamboopu@gmail.com
-description: "Musings of a random man."
-baseurl: ""
-url: "https://bamboopu.github.io/"
-blogurl: "https://bamboopu.github.io/blog"
-# twitter_username: bamboopu
-github_username: bamboopu
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-
-highlighter: rouge
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
